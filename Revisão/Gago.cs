@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Revisão
 {
-    internal class Gago
+    public class Gago
     {
         string nome;
         List <string> habilidades;
